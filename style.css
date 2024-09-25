@@ -1,0 +1,7 @@
+#keyboard span {
+  display: inline-block;
+  margin: 3px;
+  padding: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+}
